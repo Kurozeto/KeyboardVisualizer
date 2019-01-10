@@ -1,4 +1,4 @@
-This is a fork of the origninal Keyboard Visualizer. All credit goes to CalcProgrammer1
+This is a fork of the origninal Keyboard Visualizer. All credit goes to CalcProgrammer1.
 
 # Keyboard Visualizer ![Icon](https://raw.githubusercontent.com/CalcProgrammer1/KeyboardVisualizer/master/KeyboardVisualizerVC/Icon.png)
 Razer Chroma and Corsair RGB Keyboard Spectrograph Visualizer for Windows and Linux
